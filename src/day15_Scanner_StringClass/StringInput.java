@@ -18,11 +18,7 @@ public static void main(String[] args) {
 //	String lastname = scan.nextLine();
 //	System.out.println(firstname);
 	
-	 Scanner scan = new Scanner(System.in);
-	  System.out.println("Please enter the text");
-	  String txt = scan.next();
-	  int n = txt.length();
-	  System.out.println("length is: "+txt);
+	 
 
 
 }
