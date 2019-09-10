@@ -28,6 +28,6 @@ public class nextLine_2 {
  String stateName = input.nextLine();	
 	System.out.println("");
 	 
-	 
+	 }	 
 
 }

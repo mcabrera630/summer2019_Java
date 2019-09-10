@@ -1,4 +1,4 @@
-package Day_15Class_Practice;
+package Day_14Class_Practice;
 
 public class Class_Practice {
 	
