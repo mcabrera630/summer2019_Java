@@ -44,7 +44,7 @@ public class day17_StringClass {
 	String str2 = "Hello Javengers";
 	boolean R1 = str1 == str2 ; 
 
-	
+	// hey iva i love you 
 	String str3 = new String("Hello Javengers");
 	String str4 = new String("Hello Javengers");
 	boolean R2 = str3 == str4;
