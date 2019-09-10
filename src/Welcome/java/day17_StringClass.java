@@ -84,7 +84,7 @@ public class day17_StringClass {
 	
 	String name3 ="CYBRETEK";
 			name3.toLowerCase();
-			
+			//This is Mauricio and im testin git
 	// trim(): its used for removing the unused spaces
 	String s1 = "                  hello";
 			s1.trim();
@@ -102,5 +102,18 @@ public class day17_StringClass {
 			String s4 = "     Cybertek     School";
 			s4 = s4.trim();
 			System.out.println(s4);
+			
+	/*
+	 susbtring(beginning index): 
+	 			it creates sub value of the String from the beginning index till the last 
+	 			index and returns it as a NEW String value   
+	   */
+	String str = "Cybertek School";
+	//	          0123456789
+	String Str2 = str.substring(9);
+	System.out.println(str);
+	
+	
+	
 	}
 }
