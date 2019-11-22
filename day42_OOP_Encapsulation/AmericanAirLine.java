@@ -41,8 +41,8 @@ public class AmericanAirLine {
 			Rohan.setInfo("Rohan", 3215672, (byte)20 , 150000);
 		
 			System.out.println(Rohan.getName());  //Rohan
-			System.out.println(Rohan.getSSN());
-			System.out.println(Rohan.getSalary());
+			System.out.println(Rohan.getSSN()); // 3215762
+			System.out.println(Rohan.getSalary()); // 150000
 		
 		
 		
